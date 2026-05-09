@@ -34,8 +34,9 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
         {/* Logo */}
         <a href="#" className="flex items-center gap-2 group">
-          <span className="text-2xl font-heading font-black tracking-tight">
-            Shit<span className="text-primary">-Bus</span>
+          <span className="text-2xl font-heading font-black tracking-tight flex items-center gap-1.5">
+            <span className="line-through decoration-primary decoration-[2px] text-white/30 text-[1.1rem]">Red</span>
+            <span>shit<span className="text-primary">-bus</span></span>
           </span>
           <span className="w-2 h-2 rounded-full bg-primary animate-pulse-red inline-block" />
         </a>
