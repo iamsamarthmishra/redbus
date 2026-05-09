@@ -1,4 +1,4 @@
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://shit-bus.in';
+import { headers } from 'next/headers';
 
 const cities = [
   'mumbai', 'delhi', 'bangalore', 'chennai', 'hyderabad',
@@ -9,6 +9,11 @@ const cities = [
 const refundDays = ['7', '14', '21', '30', '45', '60', '90'];
 
 export default function sitemap() {
+  const headersList = headers();
+  const domain = headersList.get('host') || 'shit-bus.in';
+  const protocol = headersList.get('x-forwarded-proto') || 'https';
+  const SITE_URL = `${protocol}://${domain}`;
+
   const staticPages = [
     {
       url: SITE_URL,

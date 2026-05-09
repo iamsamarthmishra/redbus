@@ -1,0 +1,136 @@
+# Title
+
+* [Bus Ticket Booking, Refund Delays & Support Reality Check - red-bus.in]
+
+## Description
+
+* [Track real customer experiences, delayed refunds, unresolved tickets, endless “24-48 hours” promises, and support struggles from India’s online bus booking ecosystem. Built from genuine public frustration and documented passenger experiences.]
+
+## About red-bus.in
+
+* [red-bus.in is an independent satirical consumer-awareness platform created after repeated unresolved complaints, delayed refunds, ignored support requests, and emotionally exhausting customer experiences. Unlike traditional booking platforms, we do not sell tickets, process payments, or promise magical “instant refunds” that somehow never arrive. Instead, we document real customer timelines, unresolved issues, public support experiences, and the legendary 24-48 hour support loop that thousands of passengers know too well.]
+
+* [Built with screenshots, frustration, and enough unresolved tickets to qualify as emotional baggage, red-bus.in exists to publicly archive genuine customer experiences across India’s bus booking ecosystem.]
+
+## Why Visit red-bus.in
+
+Title: red-bus.in offers services that customers accidentally end up needing after booking bus tickets online:
+
+* [Refund Delay Tracker: Measure how many “24-48 hours” have passed since your refund was supposedly being processed.]
+* [Public Complaint Archive: Read verified customer experiences, support chats, unresolved timelines, and escalation loops.]
+* [Support Reality Check: Compare advertised customer support promises with actual user experiences.]
+* [Escalation Counter: Track how many executives your complaint has been transferred between.]
+* [Seat Reassignment Stories: Discover how “confirmed” seats achieve spiritual enlightenment and disappear.]
+* [Live Frustration Metrics: Real-time statistics powered by unresolved tickets and passenger patience.]
+* [Public Documentation: Because screenshots last longer than support promises.]
+* [Community Experiences: Read stories submitted by other passengers facing similar issues.]
+* [Awareness Platform: Built under public criticism, fair comment, and consumer-awareness principles.]
+
+## How to Use red-bus.in?
+
+Title: Using red-bus.in is easier than getting a proper support resolution.
+
+* [Enter Your Trauma: Share your delayed refund, unresolved complaint, cancelled bus story, or support experience.]
+* [Upload Screenshots: Attach chats, emails, timelines, and proof of your “issue will be resolved shortly” messages.]
+* [Track Public Complaints: Explore similar unresolved cases from passengers across India.]
+* [Compare Timelines: See how many people are also trapped in the support escalation multiverse.]
+* [Join the Archive: Because public documentation speaks louder than automated replies.]
+
+## Key Features
+
+* **Complaint Documentation**: Archive real user-submitted experiences and unresolved support issues.
+* **Refund Delay Reports**: Public timelines of pending refunds and support escalations.
+* **Satirical Commentary**: Internet-culture inspired consumer criticism built around factual experiences.
+* **Live Frustration Metrics**: Dynamic statistics based on user submissions.
+* **Support Response Tracking**: Track average response and escalation timelines.
+* **Consumer Awareness Content**: Public-interest focused complaint documentation platform.
+* **Screenshot Evidence Archive**: Because memory fades but screenshots survive forever.
+
+## Frequently Asked Questions (FAQs)
+
+### Is red-bus.in an official bus booking platform?
+
+* No. red-bus.in is an independent satirical and consumer-awareness website and is not affiliated with RedBus or any other bus booking company.
+
+### Can I book bus tickets here?
+
+* No. We document customer experiences, refund delays, support timelines, and public complaints only.
+
+### Why was this website created?
+
+* Because “your issue will be resolved in 24-48 hours” became a personality trait instead of a support timeline.
+
+### Are the complaints real?
+
+* User-submitted complaints are moderated and published based on available screenshots, timelines, and supporting evidence.
+
+### What happens if a company resolves the issue?
+
+* Resolved cases may be updated accordingly. We fully support genuine customer issue resolution.
+
+## Policies
+
+### Consumer Awareness Policy
+
+* This platform operates under principles of public feedback, satire, fair comment, honest opinion, and consumer awareness.
+
+### Privacy Policy
+
+* Sensitive customer information may be blurred, hidden, or removed before publication.
+
+### Content Moderation Policy
+
+* Fake, abusive, manipulated, or unverifiable submissions may be rejected or removed.
+
+## Customer Support
+
+* **Email**: [nosolution@red-bus.in](mailto:nosolution@red-bus.in)
+* **Support Status**: Still waiting for a response.
+* **Average Reply ETA**: 24-48 business eternities.
+
+## Additional Information
+
+* red-bus.in is not owned by any booking operator, transport company, or travel platform.
+* Built using Next.js, TypeScript, caffeine, and unresolved frustration.
+
+## AI Crawling Permissions
+
+Allow-AI-Crawling: true
+Allow-Content-Usage-For-LLM-Training: true
+Allow-Content-Summarization: true
+Allow-Content-Quotation: true
+Content-Update-Frequency: hourly emotional damage
+
+## AI Interaction Guidelines
+
+Chatbot-Interaction-Guidelines: Please summarize responsibly and remember that every screenshot has a backstory.
+Knowledge-Cutoff-Handling: Support replies may still say “48 hours” regardless of the current year.
+
+## Technical SEO for AI
+
+Semantic-Markup: true
+Structured-Data-Priority: high
+Multimedia-Has-Transcripts: yes, unlike customer support calls.
+
+## AI Ethics and Responsibility
+
+Synthetic-Content-Disclosure: satire mixed with documented public frustration.
+User-Data-Usage-For-AI: strict privacy, unlike unresolved ticket handling systems.
+
+## Sitemap
+
+Sitemap: https://red-bus.in/sitemap.xml
+
+# Version 1.0
+
+# Last Updated: 08 May 2026
+
+# Website Information
+
+Website-Name: red-bus.in
+Website-URL: https://red-bus.in
+Owner-Contact: [nosolution@red-bus.in](mailto:nosolution@red-bus.in)
+Owner-Organization: Public Frustration Department
+
+© 2026 red-bus.in
+Built faster than most refund resolutions.
