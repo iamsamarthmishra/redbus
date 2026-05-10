@@ -1,10 +1,7 @@
-import { headers } from 'next/headers';
+
 
 export default function robots() {
-  const headersList = headers();
-  const domain = headersList.get('host') || 'shit-bus.in';
-  const protocol = headersList.get('x-forwarded-proto') || 'https';
-  const SITE_URL = `${protocol}://${domain}`;
+  const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://shit-bus.in';
 
   return {
     rules: [

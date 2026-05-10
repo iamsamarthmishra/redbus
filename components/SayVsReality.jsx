@@ -32,7 +32,7 @@ export default function SayVsReality() {
         <div className="glass-card overflow-hidden">
           {/* Header */}
           <div className="grid grid-cols-2 border-b border-white/10">
-            <div className="p-5 text-sm font-mono uppercase tracking-widest text-primary border-r border-white/10">What RedBlack Says</div>
+            <div className="p-5 text-sm font-mono uppercase tracking-widest text-primary border-r border-white/10">What shit-bus Says</div>
             <div className="p-5 text-sm font-mono uppercase tracking-widest text-accent">What Actually Happens</div>
           </div>
           {/* Rows */}
