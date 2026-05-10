@@ -17,6 +17,7 @@ const RefundSimulator = dynamic(() => import('../components/RefundSimulator'), {
 const ExcuseGenerator = dynamic(() => import('../components/ExcuseGenerator'), { ssr: false });
 const FakeAwards = dynamic(() => import('../components/FakeAwards'), { ssr: true });
 const FinalCTA = dynamic(() => import('../components/FinalCTA'), { ssr: true });
+const LinkPreviewDemo = dynamic(() => import('../components/LinkPreviewDemo'), { ssr: false });
 
 export default function Home() {
   return (
@@ -72,6 +73,10 @@ export default function Home() {
         <aside aria-label="Satirical awards and recognition">
           <FakeAwards />
         </aside>
+
+        <section aria-label="Link preview generator">
+          <LinkPreviewDemo />
+        </section>
 
         <FinalCTA />
       </article>
